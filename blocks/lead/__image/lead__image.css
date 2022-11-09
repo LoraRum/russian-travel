@@ -1,0 +1,7 @@
+.lead__image {
+    background-image: url("../../../images/kalegin-michail-179870-unsplash.svg");
+    width: 320px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

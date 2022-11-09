@@ -1,0 +1,9 @@
+.header__lang-links{
+    position: absolute;
+    left: 242px;
+    top: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 18px;
+    color: white;
+}

@@ -1,0 +1,9 @@
+.header__link{
+    line-height: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Inter";
+}
+.header__link:first-child{
+    text-decoration: underline;
+}
