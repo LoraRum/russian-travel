@@ -1,7 +1,7 @@
 .header__lang-links{
-    position: absolute;
-    left: 242px;
-    top: 30px;
+    /* position: absolute; */
+    /* left: 242px; */
+    /* top: 30px; */
     display: flex;
     gap: 18px;
     color: white;
