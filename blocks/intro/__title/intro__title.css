@@ -1,0 +1,9 @@
+.intro__title{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+    color: white;
+    margin: 64px 16px 40px;
+}

@@ -3,7 +3,8 @@
     left: 242px;
     top: 30px;
     display: flex;
-    justify-content: space-between;
     gap: 18px;
     color: white;
+    /* flex-direction: row; */
+    /* justify-content: space-between; */
 }
