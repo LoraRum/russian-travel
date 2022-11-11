@@ -7,3 +7,9 @@
     font-family: "Inter", sans-serif;
     margin: 0 auto 40px;
 }
+@media screen and (min-width: 768px) {
+    .lead__title{
+        font-size: 96px;
+        line-height: 100px;
+    }
+}
