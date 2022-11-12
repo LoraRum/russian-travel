@@ -1,0 +1,7 @@
+.cover__titles {
+    margin: auto;
+    grid-column: 1/2;
+    grid-row: 1/2;
+    z-index: 0;
+    pointer-events: none;
+}
