@@ -8,6 +8,10 @@
     color: #FFFFFF;
 }
 
+.places__paragraph:last-child {
+    margin-bottom: 0;
+}
+
 @media screen and (min-width: 1024px) {
     .places__paragraph{
         font-weight: 400;
