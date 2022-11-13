@@ -1,4 +1,4 @@
-.places__paragraph{
+.places__paragraph {
     margin: 0 0 25px;
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -13,7 +13,7 @@
 }
 
 @media screen and (min-width: 1024px) {
-    .places__paragraph{
+    .places__paragraph {
         font-weight: 400;
         font-size: 18px;
         line-height: 163%;

@@ -1,6 +1,5 @@
-.header__lang-links{
+.header__lang-links {
     display: flex;
     gap: 18px;
     color: white;
-
 }

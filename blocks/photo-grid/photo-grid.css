@@ -1,11 +1,11 @@
-.photo-grid{
+.photo-grid {
     display: grid;
     padding-top: 64px;
     gap: 12px;
 }
 
 @media screen and (min-width: 768px) {
-    .photo-grid{
+    .photo-grid {
         gap: 16px;
         grid-template-columns: repeat(2, 1fr);
         margin-bottom: 88px;
@@ -14,15 +14,15 @@
 }
 
 @media screen and (min-width: 1024px) {
-.photo-grid{
-    gap: 14px;
-    grid-template-columns: repeat(3, 1fr);
-    margin-bottom: 92px;
-}
+    .photo-grid {
+        gap: 14px;
+        grid-template-columns: repeat(3, 1fr);
+        margin-bottom: 92px;
+    }
 }
 
 @media screen and (min-width: 1280px) {
-    .photo-grid{
+    .photo-grid {
         gap: 16px;
         grid-template-columns: repeat(4, 1fr);
         margin-bottom: 92px;

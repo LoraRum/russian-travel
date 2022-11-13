@@ -7,11 +7,11 @@
     text-align: center;
     color: #FFFFFF;
     margin: 0 auto 16px;
-    width: 255px;
+    white-space: pre-line;
 }
 
-@media screen and (min-width: 768px){
-    .cover__title{
+@media screen and (min-width: 768px) {
+    .cover__title {
         font-size: 72px;
         line-height: 76px;
         margin-bottom: 32px;

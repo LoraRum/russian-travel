@@ -1,5 +1,12 @@
-.header{
+.header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+@media screen and (min-width: 1280px) {
+    .header {
+        margin-left: -100px;
+        margin-right: -100px;
+    }
 }
