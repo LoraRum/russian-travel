@@ -12,5 +12,11 @@
     .intro__title {
         font-size: 54px;
         line-height: 58px;
+        margin-top: 88px;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .intro__title {
+        margin-top: 92px;
     }
 }

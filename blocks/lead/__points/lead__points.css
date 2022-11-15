@@ -1,7 +1,0 @@
-.lead__points {
-    width: calc(100% - 12px);
-    position: absolute;
-    top: 15%;
-    left: 6px;
-    /* width: 100%; */
-}

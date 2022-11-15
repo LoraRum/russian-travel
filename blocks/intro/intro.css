@@ -1,24 +1,25 @@
-.footer {
-    padding-bottom: 24px;
-    display: flex;
-    flex-direction: column;
+.intro {
     margin-right: 16px;
     margin-left: 16px;
 }
 
 @media screen and (min-width: 768px) {
-    .footer {
-        flex-direction: row;
-        column-gap: 18px;
-        align-items: center;
+    .intro {
         margin-right: 24px;
         margin-left: 24px;
     }
 }
 
 @media screen and (min-width: 1024px) {
-    .footer {
+    .intro {
         margin-right: 48px;
         margin-left: 48px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .intro {
+        margin-right: 148px;
+        margin-left: 148px;
     }
 }

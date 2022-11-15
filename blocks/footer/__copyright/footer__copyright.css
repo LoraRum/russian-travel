@@ -5,18 +5,12 @@
     font-size: 14px;
     line-height: 14px;
     color: #FFFFFF;
-    margin: 16px 0 0;
+    margin: 48px 0 0;
 }
 
 @media screen and (min-width: 768px) {
     .footer__copyright {
         margin-top: 0;
         margin-left: auto;
-    }
-}
-
-@media screen and (min-width: 1280px) {
-    .footer__copyright {
-        margin-right: -100px;
     }
 }

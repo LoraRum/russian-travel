@@ -1,16 +1,9 @@
 .lead {
-    padding-top: 50px;
+    padding-top: 48px;
 }
 
-
-@media screen and (min-width: 768px) {
-    .lead__caption {
-        margin-bottom: 88px;
-    }
-}
-
-@media screen and (min-width: 1024px) {
-    .lead__caption {
-        margin-bottom: 92px;
+@media screen and (min-width: 1280px) {
+    .lead {
+        padding-top: 56px;
     }
 }

@@ -1,0 +1,13 @@
+.place__image {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 1280px) {
+    .place__image {
+        padding-right: 24px;
+    }
+}

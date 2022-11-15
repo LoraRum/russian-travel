@@ -1,28 +1,5 @@
 .cover__link {
     display: grid;
     text-decoration: none;
-
-    width: calc(100% + 32px);
-    margin-left: -16px;
 }
 
-@media screen and (min-width: 768px) {
-    .cover__link {
-        margin-left: -24px;
-        width: calc(100% + 48px);
-    }
-}
-
-@media screen and (min-width: 1024px) {
-    .cover__link {
-        margin-left: -48px;
-        width: calc(100% + 96px);
-    }
-}
-
-@media screen and (min-width: 1280px) {
-    .cover__link {
-        margin-left: -100px;
-        width: calc(100% + 200px);
-    }
-}

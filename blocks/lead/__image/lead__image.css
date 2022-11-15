@@ -1,6 +1,19 @@
 .lead__image {
     background-repeat: no-repeat;
-    position: relative;
     width: 100%;
+    box-sizing: border-box;
 }
 
+@media screen and (min-width: 1024px) {
+    .lead__image {
+        padding-left: 48px;
+        padding-right: 48px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead__image {
+        padding-left: 148px;
+        padding-right: 148px;
+    }
+}
