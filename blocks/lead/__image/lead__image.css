@@ -2,6 +2,8 @@
     background-repeat: no-repeat;
     width: 100%;
     box-sizing: border-box;
+    background-size: cover;
+    display: block;
 }
 
 @media screen and (min-width: 1024px) {

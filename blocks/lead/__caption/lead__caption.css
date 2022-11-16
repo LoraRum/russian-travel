@@ -12,18 +12,21 @@
 
 @media screen and (min-width: 768px) {
     .lead__caption {
-        margin: 8px 24px 0;
+        margin-left: 24px;
+        margin-right: 24px;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .lead__caption {
-        margin: 8px 48px 0;
+        margin-left: 48px;
+        margin-right: 48px;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .lead__caption {
-        margin: 8px 148px 0;
+        margin-left: 148px;
+        margin-right: 148px;
     }
 }

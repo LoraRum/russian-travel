@@ -1,5 +1,5 @@
 .footer {
-    padding-bottom: 24px;
+    padding: 0 0 24px;
     display: flex;
     flex-direction: column;
     margin-right: 16px;
