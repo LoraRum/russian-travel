@@ -17,9 +17,6 @@
 
 @media screen and (min-width: 1024px) {
     .place {
-        row-gap: 48px;
-        column-gap: 16px;
-        grid-template-columns: repeat(2, 1fr);
         margin-bottom: 80px;
         margin-left: 48px;
         margin-right: 48px;
@@ -32,10 +29,6 @@
 
 @media screen and (min-width: 1280px) {
     .place {
-        row-gap: 48px;
-        column-gap: 16px;
-        grid-template-columns: repeat(2, 1fr);
-        margin-bottom: 80px;
         margin-left: 148px;
         margin-right: 148px;
     }
